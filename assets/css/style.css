@@ -28,6 +28,7 @@ footer {
 #img-main img {
   border-radius: 2%;
   box-shadow: 5px 5px 8px rgb(199, 214, 220);
+  width: 100%;
 }
 
 #img-main p {
